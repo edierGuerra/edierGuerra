@@ -1,0 +1,14 @@
+.button-main{
+    background-color: #67eaea;
+    border: 0;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: #202020;
+    transition: background-color .2s, border-radius .2s ;
+}
+.button-main:hover{
+    background-color: #3ae7e7;
+    border-radius: 7px;
+    color: #111111;
+}

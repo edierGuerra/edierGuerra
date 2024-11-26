@@ -1,0 +1,16 @@
+nav{
+    background-color: #00a2ff;
+}
+.nav-link{
+    color: #fff;
+    font-weight: bolder;
+}
+.navbar-collapse{
+    justify-content: end;
+    font-size: 17px;
+}
+.navbar-brand{
+    margin-left: 20px;
+    font-size: xx-large;
+    font-weight: bolder;
+}

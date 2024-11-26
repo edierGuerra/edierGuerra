@@ -1,0 +1,59 @@
+{%extends 'base.html'%}
+{%block title%}Inicio{%endblock%}
+{%block aside1%}
+    <h2 class="text-center">Similares</h2>
+        <ul class="aside-list">
+            <li><a class="aside-link" href="#">Blog</a></li>
+            <li><a class="aside-link" href="#">Habilidades</a></li>
+            <li><a class="aside-link" href="#">Herramientas</a></li>
+        </ul>
+    <img class="monitogif" src="/static/assets/monitogif.gif" alt="">
+{%endblock%}
+{%block content%}
+    <div class="index-main">
+        <div class="img-container">
+            <img class="sobremi-img" src="/static/assets/IMG-20240816-WA0003-removebg-preview.png" alt="yo">
+        </div>
+        <h1 class="text-center">Sobre mi</h1>
+        <p>Soy un estudiante apasionado por el mundo del desarrollo de software, me gusta trabajar en equipo, soy responsable y puntal manejo herramientas colavorativas, metodolgias agiles y herramientas de desarrollo. Si quieres saber mas sobre mi haz click en el boton de abajo.</p>
+        <a href="#"><button class="button-main">click</button></a>
+        <section class="contact-section">
+            <h2 class="text-center">Contactame</h2>
+            <p>
+                ¿Quieres que forme parte de tu empresa?
+            </p>
+           <!-- Button trigger modal -->
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                Contactame
+            </button>
+            
+            <!-- Modal -->
+            <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                    <h2 class="modal-title fs-5" id="staticBackdropLabel">Contactame</h2>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body icons-container">
+                        <p>Si quires que trabajemos juntos puedes contactarme a trabes de los sigueintes enlaces: </p>
+                        <ul class="icons-list">
+                            <li class="icon-item"><a class="icon-link" href="https://github.com/edierGuerra"><i class="bi bi-github contact-icon"></i></a></li>
+                            <li class="icon-item"><a class="icon-link" href="mailto: edierguerra55@gmail.com"><i class="bi bi-envelope-at contact-icon"></i></a></li>
+                            <li class="icon-item"><a class="icon-link" href="www.linkedin.com/in/edier-guerra-404094335"><i class="bi bi-linkedin contact-icon"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </section>
+    </div>
+{%endblock%}
+{%block aside2%}
+    <h2 class="text-center">Inspirate</h2>
+    <p class="item-aside">“La fuerza del equipo reside en cada miembro. La fuerza de cada miembro es el equipo.” – Phil Jackson.</p>
+    <img class="BimoGif" src="/static/assets/BimoGif.gif" alt="">
+{%endblock%}

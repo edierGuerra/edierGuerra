@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(to top, #4f73cb , #39c9e6);
+    color: #ffffff;
+    height: 100vh;
+    margin: 0;
+}
+aside{
+    font-style: italic;
+}
+/* Si la pantalla tiene un ancho máximo de 768px */
+@media (max-width: 1500px) {
+    body {
+      height: auto;
+    }
+  }
+@media (max-width: 800px) {
+    body {
+      height: auto;
+    }
+  }
+  @media (max-width: 314px) {
+    body {
+      height: auto;
+    }
+  }

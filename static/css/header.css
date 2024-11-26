@@ -1,0 +1,12 @@
+/* Header */
+header{
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+        width: 100%;
+        min-height: 200px;
+        background-color: red;
+        background-image: url(/static/assets/portada-header.jpg);
+        background-position: center;
+        background-size: cover;
+    }

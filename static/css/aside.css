@@ -1,0 +1,32 @@
+.aside {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.aside-list{
+    list-style: none;
+    padding: 0;
+}
+.item-aside{
+    max-width: 300px;
+}
+.aside-link{
+    text-decoration: none;
+    color: #ffe;
+}
+.aside-link:hover{
+    color: #dedede;
+    text-decoration: underline;
+}
+.BimoGif{
+    max-width: 300px;
+}
+.monitogif{
+    border-radius: 100%;
+}
+@media (max-width: 800px) {
+    .aside {
+      display: none;
+    }
+  }
+  

@@ -1,0 +1,45 @@
+.index-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sobremi-img{
+    margin-top: 20px;
+    width: 100px;
+    border-radius: 100%;
+}
+.contact-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.contact-icon{
+    font-size: 25px;
+}
+
+.icon-item{
+    display: inline-block;
+}
+.icons-list{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0;
+    list-style: none;
+}
+@media (max-width: 500px) {
+    .main-container{
+        width: 100%;
+    }
+    .row{
+        margin-left: 0;
+    }
+  }
+@media (max-width: 800px) {
+    .main-container{
+        width: 100%;
+    }
+    .row{
+        margin-left: 0;
+    }
+  }
