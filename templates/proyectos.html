@@ -1,0 +1,24 @@
+<head>
+    <link rel="stylesheet" href="{{url_for('static', filename= 'css/proyects.css')}}">
+</head>
+{%extends 'base.html'%}
+{%block title%}Proyectos{%endblock%}
+{%block content%}
+    <div class="card-group">
+        <!-- Blog -->
+        <div class="card">
+            <img src="/static/assets/Proyectos/Blog.png" class="card-img-top" alt="Blog">
+            <div class="card-body">
+                <h5 class="card-title">Blog</h5>
+                <p class="card-text">Blog que recopila informacion sobre el maravilloso mundo del desarrollo de software, enseñando conceptos basicos, intermiedios y avanzados, en este blog encontraras herramientas de desarrollo, buenas practicas, algoritmos, requerimientos, herramientas colaborativas, entre otras.</p>
+                <div class="icons-link">
+                    <i class="bi bi-window-stack"><a href="#"></a></i>
+                    <i class="bi bi-github"><a href="#"></a></i>
+                </div>
+            </div>
+            <div class="card-footer">
+                <small class="text-body-secondary">Ultima actualizacion: 27/11/2024</small>
+            </div>
+        </div>
+    </div>
+{%endblock%}

@@ -1,0 +1,44 @@
+.body{
+    height: auto;
+}
+.aside{
+    display: none !important;
+}
+main{
+    width: 100%;
+    box-sizing: border-box;
+}
+/* Cards */
+.card-group{
+    margin-top: 20px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.card{
+    max-width: 400px;
+}
+.icons-link{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    font-size: 30px;
+}
+.bi:hover{
+    cursor: pointer;
+    transform: scale(1);
+    color: rgb(115, 118, 115);
+}
+
+@media (min-width: 576px) {
+    .card-group {
+        display: flex;
+        flex-flow: row wrap;
+    }
+}
+@media (max-width: 576px) {
+    .card-group {
+        display: flex;
+        flex-flow: row wrap;
+    }
+}
