@@ -6,5 +6,5 @@ Mi nombre es Edier actualmente estoy cursando una tecnologia en Análisis y Desa
 
 
 ## 🛠 Skills
-HTML | CSS | JavaScript | Python | FastAPI | MySQL | Figma | Jira | 
+HTML | CSS | JavaScript | Python | FastAPI | MySQL | Figma | Jira | Docker | Git
 
