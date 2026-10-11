@@ -1,61 +1,71 @@
 <div align="center">
-
-# 👋 Hi, My name is Edier
-### Junior Backend Developer · Python
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edier-guerra-404094335)
-![Available for work](https://img.shields.io/badge/Available%20for%20work-2ea44f?style=flat-square)
-
+ <h1>Hi, I'm Edier 🤝 </h1>
+ <h2>Junior Backend Developer · Python</h2>
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/edier-guerra-404094335">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://img.shields.io/badge/Available%20for%20Work-2ea44f?style=flat-square" alt="Available for Work">
+</p>
 
 ---
 
-## About me
+## About Me
 
-Junior backend developer specializing in Python, recently graduated from the Software Analysis and Development Technology program at SENA. My first professional experience was as an intern at a company in the healthcare sector, developing and integrating backend services with Python and Flask.
+Junior backend developer specializing in Python, recently graduated from the **Software Analysis and Development Technology** program at SENA.
 
-I am characterized by a methodical approach to problem-solving: I research, test, and don't stop until I understand why something works. Every project is an opportunity to write slightly better code than the previous one.
+My first professional experience was as an intern at a healthcare company, where I developed and integrated backend services using **Python** and **Flask**.
+
+I take a methodical approach to problem-solving: I research, test, and keep investigating until I understand why something works. Every project is an opportunity to improve my skills and write better code.
 
 ## Tech Stack
 
-<div align="center">
-
-![Stack](https://skillicons.dev/icons?i=python,fastapi,flask,mysql,postgres,docker,git,html,css)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,postgres,docker,git,html,css" alt="Technologies">
+</p>
 
 ## Currently Learning
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,java" alt="Currently Learning">
+</p>
 
-![Learning](https://skillicons.dev/icons?i=javascript,java)
+I'm expanding my technical skills by learning **JavaScript** and **Java**.
 
-</div>
+## Experience & Education
 
-I am expanding my stack with JavaScript and Java.
+- **Software Analysis and Development Technology** — SENA
+- **Backend Development Internship** — Developed backend services using Python and Flask for a healthcare company *(until March 2026).*
+- **Project Continuation Contract** — Continued working on the previous project *(until May 2026).*
+- **[learning-zone](https://github.com/edierGuerra/learning-zone)** — Team graduation project focused on backend development, business logic, and project structure.
 
-## Experience
+## Current Focus
 
-- Software Analysis and Development Technology — SENA 
-- [learning-zone](https://github.com/edierGuerra/learning-zone) — Team graduation project where I applied backend development, business logic, and project structure.
-- Professional Internship — Backend development with Python and Flask for a company in the healthcare sector (until March 2026)
-- Continuation Contract — Completion of the previous project (until May 2026)
-
-## What I'm Working on Now
-
-- Software development best practices and documentation.
+- Following software development best practices.
+- Improving code quality and technical documentation.
+- Expanding my backend development skills.
 
 ## GitHub Statistics
-  
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edierGuerra&theme=whatsapp-dark&hide_border=true&border_radius=7&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=edierGuerra&show_icons=true&theme=gotham)
-|---|---|
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=edierGuerra&theme=whatsapp-dark&hide_border=true&border_radius=7&locale=en&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak">
+  </a>
+  <img src="https://github-stats-extended.vercel.app/api?username=edierGuerra&show_icons=true&theme=gotham" alt="GitHub Statistics">
+</p>
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edier-guerra-404094335)
+<p align="center">
+  <a href="https://www.linkedin.com/in/edier-guerra-404094335">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
-<div align="center">
-<sub>Every challenge is an opportunity to learn and improve.</sub>
-</div>
+<p align="center">
+  <sub>Every challenge is an opportunity to learn and improve.</sub>
+</p>
