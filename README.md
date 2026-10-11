@@ -48,7 +48,7 @@ Estoy ampliando mi stack con **Javascript** y **Java**.
 
 ## Estadísticas de GitHub
   
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CamiloAndresV&theme=whatsapp-dark&hide_border=true&border_radius=7&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CamiloAndresV&show_icons=true&theme=gotham)
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edierGuerra&theme=whatsapp-dark&hide_border=true&border_radius=7&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CamiloAndresV&show_icons=true&theme=gotham)
 |---|---|
 
 ## Contacto
